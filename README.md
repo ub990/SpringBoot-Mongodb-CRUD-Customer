@@ -1,5 +1,5 @@
 # SpringBoot-Mongodb-CRUD-Customer
-Simple Customer CRUD using Springboot, mongodb and mongodb repository. A simple CRUD system using Springboot and mongodb to display an application that suplies control for a customer operations.
+Simple Customer CRUD using Springboot, mongodb and mongoRepository. A simple CRUD system using Springboot and mongodb to display an application that suplies control for a customer operations.
 
 To run
 
